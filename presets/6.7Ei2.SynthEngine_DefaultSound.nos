@@ -1,0 +1,21 @@
+{
+    "name": "6.7Ei2.SynthEngine_DefaultSound",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-24T18:02:43.340277",
+    "tags": [],
+    "version": "6.7Ei2",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.2,
+        "lfo_freq": 5.0,
+        "lfo_depth": 0.0,
+        "attack_time": 0.005,
+        "decay_time": 0.3,
+        "sustain_level": 0.7,
+        "release_time": 0.8,
+        "cutoff": 8000.0,
+        "resonance": 1.0,
+        "detune_mode": "sutil",
+        "detune_amount": 1.0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "testing13_Gecko_DRONE_A",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-22T13:25:15.728772",
+    "tags": [],
+    "version": "6.1",
+    "parameters": {
+        "waveform": "tri",
+        "amplitude": 0.51,
+        "lfo_freq": 1.3939975,
+        "lfo_depth": 0.95,
+        "attack_time": 0.137,
+        "decay_time": 0.137,
+        "sustain_level": 0.73,
+        "release_time": 2.5,
+        "cutoff": 200,
+        "resonance": 0.1,
+        "detune_mode": "sutil",
+        "detune_amount": 2.0
+    }
+}

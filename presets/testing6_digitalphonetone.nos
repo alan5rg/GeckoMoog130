@@ -1,0 +1,21 @@
+{
+    "name": "testing6_digitalphonetone",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-11T22:42:29.672908",
+    "tags": [],
+    "version": "5.7",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.53,
+        "lfo_freq": 0.1,
+        "lfo_depth": 0.0,
+        "attack_time": 0.001,
+        "decay_time": 0.015,
+        "sustain_level": 0.15,
+        "release_time": 0.14,
+        "cutoff": 20000.0,
+        "resonance": 3.2,
+        "detune_mode": "sutil",
+        "detune_amount": 2.0
+    }
+}

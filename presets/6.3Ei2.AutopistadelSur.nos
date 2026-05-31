@@ -1,0 +1,21 @@
+{
+    "name": "6.3Ei2.AutopistadelSur",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-24T15:23:50.495950",
+    "tags": [],
+    "version": "6.3Ei2",
+    "parameters": {
+        "waveform": "saw",
+        "amplitude": 0.38,
+        "lfo_freq": 20.0,
+        "lfo_depth": 0.0,
+        "attack_time": 0.037,
+        "decay_time": 0.06,
+        "sustain_level": 0.35,
+        "release_time": 0.05,
+        "cutoff": 14400,
+        "resonance": 10.0,
+        "detune_mode": "sutil",
+        "detune_amount": 0.0
+    }
+}

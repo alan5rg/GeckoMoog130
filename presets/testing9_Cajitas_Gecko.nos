@@ -1,0 +1,21 @@
+{
+    "name": "testing9_Cajitas_Gecko",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-21T14:11:55.841091",
+    "tags": [],
+    "version": "6.0",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.99,
+        "lfo_freq": 20.0,
+        "lfo_depth": 0.75,
+        "attack_time": 0.006,
+        "decay_time": 0.01,
+        "sustain_level": 0.0,
+        "release_time": 5.0,
+        "cutoff": 20000.0,
+        "resonance": 0.1,
+        "detune_mode": "clasic",
+        "detune_amount": 2.0
+    }
+}

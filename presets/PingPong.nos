@@ -1,0 +1,21 @@
+{
+    "name": "PingPong",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-09T01:01:05.526638",
+    "tags": [],
+    "version": "5.0",
+    "parameters": {
+        "waveform": "square",
+        "amplitude": 0.1,
+        "lfo_freq": 0.1,
+        "lfo_depth": 0.0,
+        "attack_time": 0.001,
+        "decay_time": 0.01,
+        "sustain_level": 0.0,
+        "release_time": 0.05,
+        "cutoff": 200,
+        "resonance": 0.1,
+        "detune_mode": "none",
+        "detune_amount": 1.0
+    }
+}

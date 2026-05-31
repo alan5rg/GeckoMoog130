@@ -1,0 +1,21 @@
+{
+    "name": "TelephonePUb",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-10T04:44:19.538418",
+    "tags": [],
+    "version": "5.0",
+    "parameters": {
+        "waveform": "saw",
+        "amplitude": 0.1,
+        "lfo_freq": 12.0524375,
+        "lfo_depth": 0.8,
+        "attack_time": 0.031,
+        "decay_time": 0.381,
+        "sustain_level": 0.43,
+        "release_time": 1.626,
+        "cutoff": 20000.0,
+        "resonance": 5.0,
+        "detune_mode": "none",
+        "detune_amount": 1.0
+    }
+}

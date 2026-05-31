@@ -1,0 +1,21 @@
+{
+    "name": "Gecko_Monkeys_Gong's",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-26T13:26:11.417701",
+    "tags": [],
+    "version": "7.0Ei2",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.41,
+        "lfo_freq": 18.82,
+        "lfo_depth": 1.0,
+        "attack_time": 0.022,
+        "decay_time": 0.05,
+        "sustain_level": 0.0,
+        "release_time": 0.05,
+        "cutoff": 20000,
+        "resonance": 10,
+        "detune_mode": "simetric",
+        "detune_amount": 1.39
+    }
+}

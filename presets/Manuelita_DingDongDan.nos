@@ -1,0 +1,21 @@
+{
+    "name": "Manuelita DingDongDan",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-08T18:20:00-03:00",
+    "tags": ["bell", "toy", "musicbox", "geckonic", "manualita"],
+    "version": "5.2",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.42,
+        "lfo_freq": 0.35,
+        "lfo_depth": 0.08,
+        "attack_time": 0.01,
+        "decay_time": 0.45,
+        "sustain_level": 0.30,
+        "release_time": 1.2,
+        "cutoff": 4200.0,
+        "resonance": 0.22,
+        "detune_mode": "none",
+        "detune_amount": 0.0
+    }
+}

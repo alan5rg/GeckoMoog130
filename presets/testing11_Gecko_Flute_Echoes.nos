@@ -1,0 +1,21 @@
+{
+    "name": "testing11_Gecko_Flute_Echoes",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-21T17:33:53.817803",
+    "tags": [],
+    "version": "6.0",
+    "parameters": {
+        "waveform": "triangle",
+        "amplitude": 0.67,
+        "lfo_freq": 1.34375,
+        "lfo_depth": 0.79,
+        "attack_time": 0.119,
+        "decay_time": 0.489,
+        "sustain_level": 0.82,
+        "release_time": 4.224,
+        "cutoff": 4009,
+        "resonance": 8.0,
+        "detune_mode": "clasic",
+        "detune_amount": 1.72
+    }
+}

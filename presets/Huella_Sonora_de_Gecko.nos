@@ -1,0 +1,25 @@
+{
+    "name": "Gecko Breath",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-12T10:20:00-03:00",
+    "tags": ["flute", "mystic", "gecko", "ambient"],
+    "version": "5.0",
+    "parameters": {
+        "waveform": "tri",
+        "amplitude": 0.42,
+
+        "lfo_freq": 4.8,
+        "lfo_depth": 0.06,
+
+        "attack_time": 0.18,
+        "decay_time": 0.35,
+        "sustain_level": 0.72,
+        "release_time": 1.4,
+
+        "cutoff": 2600.0,
+        "resonance": 0.28,
+
+        "detune_mode": "subtle",
+        "detune_amount": 0.18
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "testing13_Gecko_Bowei_Zone",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-22T13:12:35.470599",
+    "tags": [],
+    "version": "6.1",
+    "parameters": {
+        "waveform": "saw",
+        "amplitude": 0.2,
+        "lfo_freq": 7.383897499999999,
+        "lfo_depth": 0.71,
+        "attack_time": 0.176,
+        "decay_time": 0.667,
+        "sustain_level": 0.71,
+        "release_time": 3.335,
+        "cutoff": 4004,
+        "resonance": 7.7,
+        "detune_mode": "sutil",
+        "detune_amount": 2.0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Flauta_Tacuara",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-10T18:26:04.631968",
+    "tags": [],
+    "version": "5.6",
+    "parameters": {
+        "waveform": "triangle",
+        "amplitude": 0.1,
+        "lfo_freq": 1.2944974999999999,
+        "lfo_depth": 0.0,
+        "attack_time": 0.064,
+        "decay_time": 0.967,
+        "sustain_level": 0.95,
+        "release_time": 0.075,
+        "cutoff": 19995,
+        "resonance": 4.9,
+        "detune_mode": "sutil",
+        "detune_amount": 1.0
+    }
+}

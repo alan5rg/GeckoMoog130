@@ -1,0 +1,21 @@
+{
+    "name": "Default_synthengine_70Ei2",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-26T17:17:59.775764",
+    "tags": [],
+    "version": "7.0Ei2",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.2,
+        "lfo_freq": 5.0,
+        "lfo_depth": 0.0,
+        "attack_time": 0.005,
+        "decay_time": 0.3,
+        "sustain_level": 0.7,
+        "release_time": 0.8,
+        "cutoff": 8000.0,
+        "resonance": 1.0,
+        "detune_mode": "sutil",
+        "detune_amount": 1.0
+    }
+}

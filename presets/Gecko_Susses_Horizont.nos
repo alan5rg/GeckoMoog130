@@ -1,0 +1,21 @@
+{
+    "name": "Gecko_Susses_Horizont",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-27T15:55:28.723506",
+    "tags": [],
+    "version": "8.1GM",
+    "parameters": {
+        "waveform": "triangle",
+        "amplitude": 0.3,
+        "lfo_freq": 2.97,
+        "lfo_depth": 1.0,
+        "attack_time": 0.019,
+        "decay_time": 1.51,
+        "sustain_level": 0.8,
+        "release_time": 4.31,
+        "cutoff": 19995,
+        "resonance": 8,
+        "detune_mode": "caos",
+        "detune_amount": 1.75
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Gecko_Hammond_B3_Light",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-25T17:47:35.737416",
+    "tags": [],
+    "version": "6.8Ei2",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.05,
+        "lfo_freq": 1.4974775000000002,
+        "lfo_depth": 0.13,
+        "attack_time": 0.005,
+        "decay_time": 0.3,
+        "sustain_level": 0.7,
+        "release_time": 0.8,
+        "cutoff": 8000.0,
+        "resonance": 1.0,
+        "detune_mode": "simetric",
+        "detune_amount": 1.5
+    }
+}

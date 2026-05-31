@@ -1,0 +1,21 @@
+{
+    "name": "testing13_Gecko_Spatial_Ambulance",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-24T13:32:38.995483",
+    "tags": [],
+    "version": "6.3Ei2",
+    "parameters": {
+        "waveform": "square",
+        "amplitude": 0.08,
+        "lfo_freq": 5.5849375,
+        "lfo_depth": 0.51,
+        "attack_time": 0.08,
+        "decay_time": 0.399,
+        "sustain_level": 1.0,
+        "release_time": 5.0,
+        "cutoff": 4770,
+        "resonance": 10.0,
+        "detune_mode": "caos",
+        "detune_amount": 2.0
+    }
+}

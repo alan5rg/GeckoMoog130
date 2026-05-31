@@ -1,0 +1,21 @@
+{
+    "name": "testing12_Gecko_Xilophon_LaminadodeTungsteno",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-21T20:25:31.975456",
+    "tags": [],
+    "version": "6.0",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.2,
+        "lfo_freq": 5.0,
+        "lfo_depth": 0.0,
+        "attack_time": 0.005,
+        "decay_time": 1.137,
+        "sustain_level": 0.31,
+        "release_time": 1.137,
+        "cutoff": 17137,
+        "resonance": 1.7,
+        "detune_mode": "sutil",
+        "detune_amount": 1.0
+    }
+}

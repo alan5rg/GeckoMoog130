@@ -1,0 +1,21 @@
+{
+    "name": "testing12_Gecko_AcordionaPianola_Astrohungaro",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-21T19:47:52.360590",
+    "tags": [],
+    "version": "6.0",
+    "parameters": {
+        "waveform": "square",
+        "amplitude": 0.12,
+        "lfo_freq": 0.17164000000000001,
+        "lfo_depth": 0.0,
+        "attack_time": 0.05,
+        "decay_time": 0.137,
+        "sustain_level": 1.0,
+        "release_time": 0.05,
+        "cutoff": 1137,
+        "resonance": 0.1,
+        "detune_mode": "sutil",
+        "detune_amount": 2.0
+    }
+}

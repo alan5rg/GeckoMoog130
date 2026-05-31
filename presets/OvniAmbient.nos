@@ -1,0 +1,21 @@
+{
+    "name": "OvniAmbient",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-10T04:49:41.359706",
+    "tags": [],
+    "version": "5.0",
+    "parameters": {
+        "waveform": "sine",
+        "amplitude": 0.2,
+        "lfo_freq": 20.0,
+        "lfo_depth": 1.0,
+        "attack_time": 0.307,
+        "decay_time": 1.21,
+        "sustain_level": 0.7,
+        "release_time": 0.8,
+        "cutoff": 12818,
+        "resonance": 4.4,
+        "detune_mode": "none",
+        "detune_amount": 1.0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Armonic_Colours_Cristals",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-20T11:53:32.511670",
+    "tags": [],
+    "version": "6.0",
+    "parameters": {
+        "waveform": "tri",
+        "amplitude": 0.26,
+        "lfo_freq": 0.1,
+        "lfo_depth": 0.0,
+        "attack_time": 0.273,
+        "decay_time": 0.137,
+        "sustain_level": 0.73,
+        "release_time": 2.5,
+        "cutoff": 5037,
+        "resonance": 6.7,
+        "detune_mode": "clasic",
+        "detune_amount": 2.0
+    }
+}

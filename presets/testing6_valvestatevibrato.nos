@@ -1,0 +1,21 @@
+{
+    "name": "testing6_valvestatevibrato",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-16T11:54:12.011145",
+    "tags": [],
+    "version": "5.8",
+    "parameters": {
+        "waveform": "saw",
+        "amplitude": 0.43,
+        "lfo_freq": 5.7958775,
+        "lfo_depth": 1.0,
+        "attack_time": 0.113,
+        "decay_time": 0.26,
+        "sustain_level": 0.7,
+        "release_time": 1.264,
+        "cutoff": 8000.0,
+        "resonance": 1.0,
+        "detune_mode": "simetric",
+        "detune_amount": 1.07
+    }
+}

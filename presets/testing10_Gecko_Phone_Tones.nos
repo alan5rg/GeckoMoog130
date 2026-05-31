@@ -1,0 +1,21 @@
+{
+    "name": "testing10_Gecko_Phone_Tones",
+    "author": "Alan Ghenzi",
+    "created": "2026-03-21T14:14:13.121469",
+    "tags": [],
+    "version": "6.0",
+    "parameters": {
+        "waveform": "square",
+        "amplitude": 0.14,
+        "lfo_freq": 20.0,
+        "lfo_depth": 0.75,
+        "attack_time": 0.006,
+        "decay_time": 2.0,
+        "sustain_level": 1.0,
+        "release_time": 0.05,
+        "cutoff": 20000.0,
+        "resonance": 10.0,
+        "detune_mode": "clasic",
+        "detune_amount": 2.0
+    }
+}
